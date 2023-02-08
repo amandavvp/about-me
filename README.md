@@ -8,4 +8,4 @@ Feito em HTML, CSS e JavaScript.
 
 ## Screenshots
 
-![Screenshot](./src/imagens/screenshots.jpeg)
+![Screenshot](https://github.com/amandavvp/about-me/blob/master/src/imagens/screenshot.jpeg)
